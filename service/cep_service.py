@@ -1,6 +1,5 @@
 import time
 import requests
-from concurrent.futures import ThreadPoolExecutor
 
 def buscar_uf(cep):
 
