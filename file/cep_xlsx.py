@@ -1,4 +1,3 @@
-
 # Importa a biblioteca pandas para manipulação de dados em planilhas
 import pandas as pd
 # Importa a função que busca a UF (estado) a partir do CEP

@@ -4,7 +4,6 @@ import time
 # Importa requests para fazer requisições HTTP às APIs de CEP
 import requests
 
-
 # Função que busca a UF (estado) correspondente a um CEP consultando múltiplas APIs públicas
 def buscar_uf(cep):
 
